@@ -1,7 +1,7 @@
 import React from 'react'
 import Paw from './assets/PawFinder.png'
-import ui from './assets/ui.jpg'
-import wd from './assets/wd.jpg'
+import Portf from './assets/FirstPortfolio.png'
+import ToDo from './assets/ToDoList.png'
 import wd2 from './assets/wd2.jpg'
 import wd3 from './assets/wd3.jpg'
 import wd4 from './assets/wd4.jpg'
@@ -19,13 +19,13 @@ const Works = () => {
                 </div>
 
                 <div className="cards">
-                    <img src={ui} alt="" />
-                    <button>See Work</button>
+                    <img src={Portf} alt="" />
+                    <a href='https://lawrencecrr.github.io/about-me-repo/'><button>See Work</button></a>
                 </div>
 
                 <div className="cards">
-                   <img src={wd} alt="" />
-                    <button>See Work</button>
+                   <img src={ToDo} alt="" />
+                    <a href='https://mersant.github.io/studious-dollop/'><button>See Work</button></a>
                 </div>
 
                 <div className="cards">
