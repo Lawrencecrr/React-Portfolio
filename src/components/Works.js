@@ -28,20 +28,6 @@ const Works = () => {
                     <a href='https://mersant.github.io/studious-dollop/'><button>See Work</button></a>
                 </div>
 
-                <div className="cards">
-                   <img src={wd2} alt="" />
-                    <button>See Work</button>
-                </div>
-
-                <div className="cards">
-                   <img src={wd3} alt="" />
-                    <button>See Work</button>
-                </div>
-
-                <div className="cards">
-                   <img src={wd4} alt="" />
-                    <button>See Work</button>
-                </div>
 
             </div>
         </div>
